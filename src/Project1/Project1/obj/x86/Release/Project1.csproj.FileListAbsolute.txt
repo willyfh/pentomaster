@@ -1,0 +1,21 @@
+C:\Users\ASUS\AppData\Local\Temporary Projects\Project1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ASUS\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Project1\bin\Release\Project1.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\Project1\obj\x86\Release\Project1.exe
+C:\Users\ASUS\AppData\Local\Temporary Projects\Project1\obj\x86\Release\Project1.pdb
+C:\Users\ASUS\AppData\Local\Temporary Projects\Project1\obj\x86\Release\Project1.form.resources
+C:\Users\ASUS\AppData\Local\Temporary Projects\Project1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ASUS\AppData\Local\Temporary Projects\Project1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\bin\Release\Project1.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\bin\Release\Project1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Project1.form.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Project1.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Project1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\bin\Release\Project1.exe.manifest
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\bin\Release\Project1.application
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Project1.exe.manifest
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Project1.application
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Project1.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Project1.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\Project1\Project1\obj\x86\Release\Project1.csproj.ResolveComReference.cache
